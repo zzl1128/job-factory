@@ -1,2 +1,2 @@
 # job-factory
-职业工程厂app
+职业工程厂web app
